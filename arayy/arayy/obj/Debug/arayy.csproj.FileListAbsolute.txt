@@ -1,0 +1,6 @@
+D:\array\arayy\arayy\bin\Debug\arayy.exe.config
+D:\array\arayy\arayy\bin\Debug\arayy.exe
+D:\array\arayy\arayy\bin\Debug\arayy.pdb
+D:\array\arayy\arayy\obj\Debug\arayy.csprojResolveAssemblyReference.cache
+D:\array\arayy\arayy\obj\Debug\arayy.exe
+D:\array\arayy\arayy\obj\Debug\arayy.pdb
